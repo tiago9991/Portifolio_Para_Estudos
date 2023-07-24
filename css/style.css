@@ -130,7 +130,6 @@ button,
     
 
     #menu {
-      /* display: none; */
       display: block;
       position: absolute;
       width: 100%;
@@ -194,6 +193,30 @@ button,
     #nav.active #hamburguer::after {
       transform: rotate(-135deg);
       top: -7px;
+    }
+
+    .primeira-sessao h1 {
+     padding-top: 1rem;
+     text-align: center; 
+    }
+
+    .primeira-sessao p {
+      text-align: center;
+      text-align: justify;
+    }
+
+    .primeira-sessao .img-perfil {
+      justify-content: center;
+      align-content: center;
+    } 
+
+    #quem-sou-eu {
+      align-items: center;
+      
+    }
+
+    #contato .titulo {
+      text-align: center;
     }
 
 }
