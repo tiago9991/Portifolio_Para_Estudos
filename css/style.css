@@ -196,8 +196,9 @@ button,
     }
 
     .primeira-sessao h1 {
-     padding-top: 1rem;
+     padding-top: 2rem;
      text-align: center; 
+     text-align: justify;
     }
 
     .primeira-sessao p {
